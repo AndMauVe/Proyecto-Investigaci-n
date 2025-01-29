@@ -69,3 +69,5 @@ def menu():
             print("Opción no válida. Intente nuevamente.")
 
 menu()
+
+print("Hola mundo")
